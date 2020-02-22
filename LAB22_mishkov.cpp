@@ -7,7 +7,7 @@ class Vector
 public:
 	Vector();
 	~Vector();
-
+	f
 private:
 	double *p
 };
