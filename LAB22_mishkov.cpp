@@ -2,12 +2,12 @@
 //
 
 #include <iostream>
-class Vector
+class ffff
 {
 public:
 	Vector();
 	~Vector();
-
+	
 private:
 	double *p
 };
