@@ -2,7 +2,7 @@
 //
 
 #include <iostream>
-class fff
+class ffff
 {
 public:
 	Vector();
